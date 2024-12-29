@@ -6,7 +6,7 @@ A simple Chrome Extension that allows users to scrape the content of a webpage. 
 
 - **Scrape Page Content**: Click the extension icon to scrape the entire HTML content of the current page.
 - **User-Friendly Interface**: The popup has a modern design with clear actions and a loading indicator during the scraping process.
-- **Dynamic Content Display**: View the filtered HTML content directly in the popup after selecting the tag.
+- **Dynamic Content Display**: View the HTML content directly in the popup after selecting the tag.
 
 ## Table of Contents
 
