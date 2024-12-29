@@ -1,6 +1,6 @@
 # Scrape This Page - Chrome Extension
 
-A simple Chrome Extension that allows users to scrape the content of a webpage and filter specific HTML tags (e.g., `<div>`, `<p>`, `<h1>`) from the scraped page. This extension enables easy data extraction from web pages, with a modern and clean user interface for interaction.
+A simple Chrome Extension that allows users to scrape the content of a webpage. This extension enables easy data extraction from web pages, with a modern and clean user interface for interaction.
 
 ## Features
 
