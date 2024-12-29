@@ -28,7 +28,7 @@ Follow these steps to install and use the extension:
 Clone this repository or download it as a ZIP file:
 
 ```bash
-git clone https://github.com/your-username/scrape-this-page.git
+git clone https://github.com/VatanAgnihotri/scrape-this-page.git
 ```
 ### 2. Load the Extension in Chrome
 
