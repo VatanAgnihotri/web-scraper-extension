@@ -57,7 +57,7 @@ After the extension is installed, here’s how you can interact with it:
 
 ### View Results:
 
-- The scraped content will be displayed below the filter options in the popup.
+- The scraped content will be displayed below the button in the popup.
 
 ---
 
