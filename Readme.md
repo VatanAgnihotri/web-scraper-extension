@@ -15,7 +15,6 @@ A simple Chrome Extension that allows users to scrape the content of a webpage. 
 - [How It Works](#how-it-works)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
